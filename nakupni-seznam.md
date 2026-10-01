@@ -4,6 +4,9 @@ Co je potreba nakoupit:
   - [ ] Tvaroh
   - [ ] Rohliky
   - [ ] Pivo
-    - [ ] Branik
-    - [ ] Starobrno
+    - [ ] Radegast 12
+    - [ ] Pilsen Urquell
+  - [ ] Uran 235
+  - [ ] VHS přehrávač
+  - [ ] airways žvýkačky
           
