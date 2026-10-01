@@ -7,4 +7,4 @@ Co je potreba nakoupit:
     - [ ] Branik
     - [ ] Svijany
     - [ ] Starobrno
-          
+  - [ ] Mango   
