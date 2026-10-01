@@ -2,7 +2,7 @@ Co je potreba nakoupit:
 
   - [ ] Mleko
   - [ ] Tvaroh
-  - [ ] Rohliky
+  - [X] Rohliky
   - [ ] Pivo
     - [ ] Branik
     - [ ] Svijany
