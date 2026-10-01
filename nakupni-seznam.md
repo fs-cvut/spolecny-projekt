@@ -5,6 +5,6 @@ Co je potreba nakoupit:
   - [X] Rohliky
   - [ ] Pivo
     - [ ] Branik
-    - [ ] ~~Svijany~~
+    - [x] ~~Svijany~~
     - [ ] Starobrno
           
