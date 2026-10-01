@@ -1,6 +1,6 @@
 Co je potreba nakoupit:
 
-  - [ ] Mleko
+  - [X] Mleko
   - [ ] Tvaroh
   - [X] Rohliky
   - [ ] Pivo
